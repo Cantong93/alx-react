@@ -8,4 +8,6 @@
 - How to setup a dev server
 
 ## Resources
-- [Webpack documentation](https://alx-intranet.hbtn.io/rltoken/XEFTUAcZ_9sKurp1Bui7ug)
+- [Webpack documentation](https://webpack.js.org/concepts/)
+- [Getting Started with Webpack 5](https://www.youtube.com/watch?v=9c3dBhvtt6o/)
+- [Debounce documentation on Lodash](https://lodash.com/docs/#debounce)
