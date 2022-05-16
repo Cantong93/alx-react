@@ -1,4 +1,5 @@
-import logo from './holberton-logo.jpg';
+import React, { Component }  from 'react';
+import logo from './holberton_logo.jpg';
 import './App.css';
 
 function App() {
